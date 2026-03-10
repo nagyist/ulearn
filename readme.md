@@ -1,7 +1,10 @@
-<p align="center"><img src="https://www.ulearnpro.com/img/logo_md.png"><a href="https://packagist.org/packages/ulearnpro/ulearn"><img src="https://poser.pugx.org/ulearnpro/ulearn/license.svg" alt="License"></a></p>
-<p align="center">
-  <a href="https://ko-fi.com/G2G311PPB"><img src="https://www.ko-fi.com/img/githubbutton_sm.svg" alt="ko-fi"></a>
-</p>
+🚀 Maintainer Update
+
+If you are looking for a **modern MERN stack starter kit**, check out my new project:
+
+👉 https://github.com/safytech/mernease
+
+A production-ready MERN boilerplate with authentication, admin dashboard, and clean architecture.
 
 * [About ULEARN](#about-ulearn)
 * [Key Features](#about-ulearn)
